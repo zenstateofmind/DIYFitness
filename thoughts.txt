@@ -1,0 +1,46 @@
+1) Exercises:
+    Benefits
+    Part of the body it has an impact on
+    Injuries
+    Intensity
+
+
+2) Workout:
+    Has 3 aspects: Warm ups, main movements and cool downs
+    Warm ups: has exercises
+    Main Movements: has exercises
+    Cool downs: has exercises
+    Gap: the amount of gap between warm ups, main movements and cool downs
+    intro and outro script
+
+
+3) Packs:
+    set of Workout(s).
+    The person who is doing the workouts/people
+    What level - beginner, intermediate or advanced
+
+5) Benefits:
+    Strengthen a <body part>
+    Enhance cardiovascular
+
+
+
+4) BodyPart:
+    Name of the bodypart
+    Definition of where the bodypart is
+
+5) Injuries:
+
+
+6) Intensity:
+    Beginners
+    Intermediate
+    Advanced
+
+
+
+
+
+
+
+
